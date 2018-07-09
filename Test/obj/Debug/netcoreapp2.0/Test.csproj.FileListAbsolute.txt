@@ -1,0 +1,12 @@
+E:\Projects\NDollsSolution\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+E:\Projects\NDollsSolution\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+E:\Projects\NDollsSolution\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+E:\Projects\NDollsSolution\Test\bin\Debug\netcoreapp2.0\Test.dll
+E:\Projects\NDollsSolution\Test\bin\Debug\netcoreapp2.0\Test.pdb
+E:\Projects\NDollsSolution\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+E:\Projects\NDollsSolution\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+E:\Projects\NDollsSolution\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+E:\Projects\NDollsSolution\Test\obj\Debug\netcoreapp2.0\Test.dll
+E:\Projects\NDollsSolution\Test\obj\Debug\netcoreapp2.0\Test.pdb
+E:\Projects\NDollsSolution\Test\bin\Debug\netcoreapp2.0\NDolls.dll
+E:\Projects\NDollsSolution\Test\bin\Debug\netcoreapp2.0\NDolls.pdb

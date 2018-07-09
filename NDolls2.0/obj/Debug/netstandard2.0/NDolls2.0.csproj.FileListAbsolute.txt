@@ -1,0 +1,8 @@
+E:\Projects\NDolls2.0\bin\Debug\netstandard2.0\NDolls2.0.deps.json
+E:\Projects\NDolls2.0\bin\Debug\netstandard2.0\NDolls2.0.dll
+E:\Projects\NDolls2.0\bin\Debug\netstandard2.0\NDolls2.0.pdb
+E:\Projects\NDolls2.0\obj\Debug\netstandard2.0\NDolls2.0.csproj.CoreCompileInputs.cache
+E:\Projects\NDolls2.0\obj\Debug\netstandard2.0\NDolls2.0.AssemblyInfoInputs.cache
+E:\Projects\NDolls2.0\obj\Debug\netstandard2.0\NDolls2.0.AssemblyInfo.cs
+E:\Projects\NDolls2.0\obj\Debug\netstandard2.0\NDolls2.0.dll
+E:\Projects\NDolls2.0\obj\Debug\netstandard2.0\NDolls2.0.pdb
