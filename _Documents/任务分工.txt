@@ -1,0 +1,5 @@
+1.
+²ÜÀÚ£ºint ExecuteNonQuery(string cmdText, List<DbParameter> commandParameters,CommandType cmdType = CommandType.Text)
+ÁõÀ×£ºint ExecuteNonQuery(DbTransaction tran, string cmdText, List<DbParameter> commandParameters,CommandType cmdType = CommandType.Text)
+ÕÔÑ§³¼£ºDbDataReader ExecuteReader(string cmdText, List<DbParameter> commandParameters,CommandType cmdType = CommandType.Text)
+Â¬Î°£ºobject ExecuteScalar(string cmdText, List<DbParameter> commandParameters,CommandType cmdType = CommandType.Text)
